@@ -1,0 +1,7 @@
+*
+!src
+!secrets
+!.env
+!.env.local
+!entrypoint.sh
+!requirements.txt
