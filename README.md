@@ -12,12 +12,6 @@ Before running any of the commands below, you need to setup the shell environmen
 . run.sh
 ```
 
-#   Download the dataset
-
-```shell
-wget 
-```
-
 #   Building the Docker container
 
 ```shell
