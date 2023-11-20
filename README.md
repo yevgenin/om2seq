@@ -2,12 +2,20 @@
 
 Code for the paper: [OM2Seq: Learning retrieval embeddings for optical genome mapping]()
 
+The dataset used in this paper is available as a parquet file at: [https://zenodo.org/records/10160960/files/dataset.parquet](https://zenodo.org/records/10160960/files/dataset.parquet)
+
 #   Setup shell environment
 
 Before running any of the commands below, you need to setup the shell environment:
 
 ```shell
 . run.sh
+```
+
+#   Download the dataset
+
+```shell
+wget 
 ```
 
 #   Building the Docker container
