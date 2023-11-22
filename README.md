@@ -1,6 +1,6 @@
 #   OM2Seq
 
-Code for the paper: [OM2Seq: Learning retrieval embeddings for optical genome mapping]()
+Code for the paper: [OM2Seq: Learning retrieval embeddings for optical genome mapping](https://www.biorxiv.org/content/10.1101/2023.11.20.567868)
 
 The dataset used in this paper is available as a parquet file at: [https://zenodo.org/records/10160960/files/dataset.parquet](https://zenodo.org/records/10160960/files/dataset.parquet)
 
