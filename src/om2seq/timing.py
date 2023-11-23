@@ -22,10 +22,6 @@ class Timing(BaseTask):
 
             with debug.timer('retrieval'):
                 retrieved = self.eval_om_seq.retrieve(query_embeddings=inference)
-        # mapping_speed = len(self.crops) * self.qry_len / time
-        # time, = timer.summary()
-        # print(f'OM2Seq mapping speed: {mapping_speed / 1e6:.2f} Mbp/s')
-
 
 if __name__ == '__main__':
     Fire(Timing)
